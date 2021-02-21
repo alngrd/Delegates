@@ -1,0 +1,7 @@
+C:\Users\Alon\Downloads\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653 (5)\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\Alon\Downloads\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653 (5)\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\Alon\Downloads\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653 (5)\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\Alon\Downloads\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653 (5)\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojAssemblyReference.cache
+C:\Users\Alon\Downloads\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653 (5)\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Downloads\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653 (5)\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\Alon\Downloads\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653 (5)\B20 Ex04 ShacharOron 316462621 AlonGreenfield 302314653\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
